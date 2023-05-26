@@ -1,0 +1,3 @@
+class ChatConst {
+  ChatConst._();
+}
